@@ -2,4 +2,4 @@
 Calculate the curvature of every point in he discrete point cloud and visualize the data from ModelNet40.(http://modelnet.cs.princeton.edu/)
 
 # display
- ![image](https://github.com/MingyeXu/Curcatures-estimation-on-point-clouds/display.jpg)
+ ![image](https://github.com/MingyeXu/Curcatures-estimation-on-point-clouds/display.png)
